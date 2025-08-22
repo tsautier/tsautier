@@ -24,6 +24,16 @@ Contact: thomas.sautier@samhan.fr — https://www.samhan.fr
   <img alt="Profile views" src="https://komarev.com/ghpvc/?username=thomassautier&label=views&color=0E8A16&style=flat"/>
 </p>
 
+<!-- (2) CVE badges -->
+<p>
+  <a href="https://www.cve.org/CVERecord?id=CVE-2024-45328">
+    <img alt="CVE-2024-45328" src="https://img.shields.io/badge/CVE-2024--45328-research-informational">
+  </a>
+  <a href="https://www.cve.org/CVERecord?id=CVE-2024-45326">
+    <img alt="CVE-2024-45326" src="https://img.shields.io/badge/CVE-2024--45326-research-informational">
+  </a>
+</p>
+
 ---
 
 ## 🚀 About
@@ -97,6 +107,23 @@ I run continuous security watch (vulns, EoL/EoS, best practices) and contribute 
 
 ---
 
+## 🗓️ Availability
+
+Based near **Nantes (France, UTC+1/UTC+2)** — remote and on-site missions.  
+> Need a quick WAF/LB review or PAM advisory? **Email me at thomas.sautier@samhan.fr** to book a slot.
+
+---
+
+## 🔒 Security Contact & Responsible Disclosure
+
+If you believe you’ve found a security issue, please email **thomas.sautier@samhan.fr** (or **security@samhan.fr** if available) with details and, if possible, a proof of concept.  
+I follow a responsible disclosure approach and will coordinate timelines with researchers.
+
+<!-- Optional: add your PGP public key / fingerprint for encrypted reports -->
+<!-- PGP: https://keys.openpgp.org/  |  Fingerprint: TBD -->
+
+---
+
 ## 📈 GitHub Insights
 
 <p align="left">
@@ -106,6 +133,13 @@ I run continuous security watch (vulns, EoL/EoS, best practices) and contribute 
 <p>
   <img height="165" alt="Top Langs" src="https://github-readme-stats.vercel.app/api/top-langs/?username=thomassautier&layout=compact&theme=transparent&langs_count=8&hide_title=true" />
 </p>
+
+<!-- (5) Extras visuals -->
+<p>
+  <img src="https://github-profile-trophy.vercel.app/?username=thomassautier&theme=onestar&no-bg=true&no-frame=true&margin-w=10&margin-h=10" alt="GitHub Trophies" />
+</p>
+
+![Updated](https://img.shields.io/github/last-commit/thomassautier/thomassautier?label=last%20updated)
 
 ---
 

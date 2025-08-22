@@ -5,8 +5,8 @@ Contact: thomas.sautier@samhan.fr — https://www.samhan.fr
 
 <p align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://www.samhan.fr/assets/samhan-banner-dark.png">
-    <img alt="SamHan Cybersecurity — Thomas Sautier" src="https://www.samhan.fr/assets/samhan-banner-light.png" width="100%" />
+    <source media="(prefers-color-scheme: dark)" srcset="./assets/samhan-banner-dark.png">
+    <img alt="SamHan Cybersecurity — Thomas Sautier" src="./assets/samhan-banner-light.png" width="100%" />
   </picture>
 </p>
 
@@ -24,13 +24,13 @@ Contact: thomas.sautier@samhan.fr — https://www.samhan.fr
   <img alt="Profile views" src="https://komarev.com/ghpvc/?username=thomassautier&label=views&color=0E8A16&style=flat"/>
 </p>
 
-<!-- (2) CVE badges -->
+<!-- CVE badges (static API for reliability) -->
 <p>
   <a href="https://www.cve.org/CVERecord?id=CVE-2024-45328">
-    <img alt="CVE-2024-45328" src="https://img.shields.io/badge/CVE-2024--45328-research-informational">
+    <img alt="CVE-2024-45328" src="https://img.shields.io/static/v1?label=CVE-2024-45328&message=research&color=informational">
   </a>
   <a href="https://www.cve.org/CVERecord?id=CVE-2024-45326">
-    <img alt="CVE-2024-45326" src="https://img.shields.io/badge/CVE-2024--45326-research-informational">
+    <img alt="CVE-2024-45326" src="https://img.shields.io/static/v1?label=CVE-2024-45326&message=research&color=informational">
   </a>
 </p>
 
@@ -134,19 +134,8 @@ I follow a responsible disclosure approach and will coordinate timelines with re
   <img height="165" alt="Top Langs" src="https://github-readme-stats.vercel.app/api/top-langs/?username=thomassautier&layout=compact&theme=transparent&langs_count=8&hide_title=true" />
 </p>
 
-<!-- (5) Extras visuals -->
 <p>
   <img src="https://github-profile-trophy.vercel.app/?username=thomassautier&theme=onestar&no-bg=true&no-frame=true&margin-w=10&margin-h=10" alt="GitHub Trophies" />
 </p>
 
 ![Updated](https://img.shields.io/github/last-commit/thomassautier/thomassautier?label=last%20updated)
-
----
-
-## 🤝 Let’s work together
-
-- 📩 **thomas.sautier@samhan.fr**  
-- 🌐 **https://www.samhan.fr**  
-- 💼 **LinkedIn**: https://www.linkedin.com/in/thomassautier/
-
-<sub>© SamHan — Built with ❤️ and a lot of coffee.</sub>

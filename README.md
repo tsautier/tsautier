@@ -21,7 +21,7 @@ Contact: thomas.sautier@samhan.fr — https://www.samhan.fr
   <a href="https://www.samhan.fr"><img alt="Website" src="https://img.shields.io/badge/Website-SamHan.fr-111111?logo=firefox-browser&logoColor=white"></a>
   <a href="mailto:thomas.sautier@samhan.fr"><img alt="Email" src="https://img.shields.io/badge/Contact-Email-0A66C2?logo=minutemailer&logoColor=white"></a>
   <a href="https://www.linkedin.com/in/thomassautier/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Thomas%20Sautier-0A66C2?logo=linkedin&logoColor=white"></a>
-  <img alt="Profile views" src="https://komarev.com/ghpvc/?username=thomassautier&label=views&color=0E8A16&style=flat"/>
+  <img alt="Profile views" src="https://komarev.com/ghpvc/?username=tsautier&label=views&color=0E8A16&style=flat"/>
 </p>
 
 <!-- CVE badges (static API for reliability) -->
@@ -127,15 +127,24 @@ I follow a responsible disclosure approach and will coordinate timelines with re
 ## 📈 GitHub Insights
 
 <p align="left">
-  <img height="165" alt="Stats" src="https://github-readme-stats.vercel.app/api?username=thomassautier&show_icons=true&theme=transparent&hide_title=true&rank_icon=github" />
-  <img height="165" alt="Streak" src="https://streak-stats.demolab.com?user=thomassautier&theme=transparent&hide_longest_streak=true" />
+  <img height="165" alt="Stats" src="https://github-readme-stats.vercel.app/api?username=tsautier&show_icons=true&theme=transparent&hide_title=true&rank_icon=github&cache_seconds=7200" />
+  <img height="165" alt="Streak" src="https://streak-stats.demolab.com?user=tsautier&theme=transparent&hide_longest_streak=true&cache_seconds=7200" />
 </p>
 <p>
-  <img height="165" alt="Top Langs" src="https://github-readme-stats.vercel.app/api/top-langs/?username=thomassautier&layout=compact&theme=transparent&langs_count=8&hide_title=true" />
+  <img height="165" alt="Top Langs" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tsautier&layout=compact&theme=transparent&langs_count=8&hide_title=true&cache_seconds=7200" />
 </p>
-
 <p>
-  <img src="https://github-profile-trophy.vercel.app/?username=thomassautier&theme=onestar&no-bg=true&no-frame=true&margin-w=10&margin-h=10" alt="GitHub Trophies" />
+  <img src="https://github-profile-trophy.vercel.app/?username=tsautier&theme=onestar&no-bg=true&no-frame=true&margin-w=10&margin-h=10&cache=7200" alt="GitHub Trophies" />
 </p>
 
-![Updated](https://img.shields.io/github/last-commit/thomassautier/thomassautier?label=last%20updated)
+![Updated](https://img.shields.io/github/last-commit/tsautier/tsautier?label=last%20updated)
+
+---
+
+## 🤝 Let’s work together
+
+- 📩 **thomas.sautier@samhan.fr**  
+- 🌐 **https://www.samhan.fr**  
+- 💼 **LinkedIn**: https://www.linkedin.com/in/thomassautier/
+
+<sub>© SamHan — Built with ❤️ and a lot of coffee.</sub>

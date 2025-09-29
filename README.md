@@ -1,20 +1,20 @@
 <!--
-GitHub Profile README — Thomas Sautier (SamHan Cybersecurity)
-Contact: thomas.sautier@samhan.fr — https://www.samhan.fr
+GitHub Profile README - Thomas Sautier (SamHan Cybersecurity)
+Contact: thomas.sautier@samhan.fr - https://www.samhan.fr
 -->
 
 <p align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="./assets/samhan-banner-dark.png">
-    <img alt="SamHan Cybersecurity — Thomas Sautier" src="./assets/samhan-banner-light.png" width="100%" />
+    <source media="(prefers-color-scheme: dark)" srcset="https://www.samhan.fr/logo.svg">
+    <img alt="SamHan Cybersecurity - Thomas Sautier" src="https://www.samhan.fr/logo.svg" width="15%" />
   </picture>
 </p>
 
-<h1 align="center">Thomas Sautier — SamHan Cybersecurity</h1>
+<h1 align="center">Thomas Sautier - SamHan Cybersecurity</h1>
 
 <p align="center">
   <b>WAAP / WAF • PAM • Load Balancing • F5 BIG-IP • Fortinet • WALLIX • NGINX / HAProxy</b><br/>
-  Nantes (Sucé-sur-Erdre), France
+  Nantes, France
 </p>
 
 <p align="center">
@@ -25,7 +25,7 @@ Contact: thomas.sautier@samhan.fr — https://www.samhan.fr
 </p>
 
 <!-- CVE badges (static API for reliability) -->
-<p>
+<p align="center">
   <a href="https://www.cve.org/CVERecord?id=CVE-2024-45328">
     <img alt="CVE-2024-45328" src="https://img.shields.io/static/v1?label=CVE-2024-45328&message=research&color=informational">
   </a>
@@ -57,7 +57,7 @@ Cybersecurity engineer focused on **application security** and **critical infras
 
 ## 🧩 Expertise
 
-- **F5 BIG-IP** (LTM, APM) • iRules • SSO • Access policies • HA & upgrades  
+- **F5 BIG-IP** (LTM, APM) • iRules • SSO • Access policies • WAF • HA & upgrades  
 - **Fortinet** (FortiGate best practices, segmentation, logging)  
 - **WALLIX Bastion** (PAM, session recording, policies, audits)  
 - **NGINX / HAProxy** (reverse proxy, TLS, HTTP/3, CSP, OCSP stapling)  
@@ -98,18 +98,18 @@ I run continuous security watch (vulns, EoL/EoS, best practices) and contribute 
 
 ## 🏅 Certifications (selection)
 
-- **F5 Certified Technology Specialist (CTS)** — *Application Security Manager (ASM)*  
-- **Fortinet Certified Professional (FCP)** — *Network Security*  
-- **Fortinet Certified Solution Specialist (FCSS)** — *Network Security*  
-- **Fortinet Certified Solution Specialist (FCSS)** — *OT Security*  
+- **F5 Certified Technology Specialist (CTS)** - *Application Security Manager (ASM)*  
+- **Fortinet Certified Professional (FCP)** - *Network Security*  
+- **Fortinet Certified Solution Specialist (FCSS)** - *Network Security*  
+- **Fortinet Certified Solution Specialist (FCSS)** - *OT Security*  
 - **WALLIX Certified Expert (WCE)**  
-- **EC-Council** — *CEH*, *CHFI v8*
+- **EC-Council** - *CEH*, *CHFI v8*
 
 ---
 
 ## 🗓️ Availability
 
-Based near **Nantes (France, UTC+1/UTC+2)** — remote and on-site missions.  
+Based near **Nantes (France, UTC+1/UTC+2)** - remote and on-site missions.  
 > Need a quick WAF/LB review or PAM advisory? **Email me at thomas.sautier@samhan.fr** to book a slot.
 
 ---
@@ -147,4 +147,4 @@ I follow a responsible disclosure approach and will coordinate timelines with re
 - 🌐 **https://www.samhan.fr**  
 - 💼 **LinkedIn**: https://www.linkedin.com/in/thomassautier/
 
-<sub>© SamHan — Built with ❤️ and a lot of coffee.</sub>
+<sub>© SamHan - Built with ❤️ and a lot of coffee.</sub>

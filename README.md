@@ -6,7 +6,7 @@ Contact: thomas.sautier@samhan.fr - https://www.samhan.fr
 <p align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://www.samhan.fr/samhan_logo_5000x5000_transparent.svg">
-    <img alt="SamHan Cybersecurity - Thomas Sautier" src="https://www.samhan.fr/samhan_logo_5000x5000_transparent.svg" width="15%" />
+    <img alt="SamHan Cybersecurity - Thomas Sautier" src="https://www.samhan.fr/samhan_logo_5000x5000_transparent.svg" width="20%" />
   </picture>
 </p>
 

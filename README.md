@@ -116,7 +116,7 @@ Based near **Nantes (France, UTC+1/UTC+2)** - remote and on-site missions.
 
 ## 🔒 Security Contact & Responsible Disclosure
 
-If you believe you’ve found a security issue, please email **thomas.sautier@samhan.fr** (or **security@samhan.fr** if available) with details and, if possible, a proof of concept.  
+If you believe you’ve found a security issue, please email **security@samhan.fr** with details and, if possible, a proof of concept.  
 I follow a responsible disclosure approach and will coordinate timelines with researchers.
 
 <!-- Optional: add your PGP public key / fingerprint for encrypted reports -->

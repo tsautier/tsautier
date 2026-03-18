@@ -18,7 +18,7 @@ Contact: thomas.sautier@samhan.fr - https://www.samhan.fr
 </p>
 
 <p align="center">
-  <a href="https://www.samhan.fr"><img alt="Website" src="https://img.shields.io/badge/Website-SamHan.fr-111111?logo=firefox-browser&logoColor=white"></a>
+  <a href="https://samhan.fr"><img alt="Website" src="https://img.shields.io/badge/Website-SamHan.fr-111111?logo=firefox-browser&logoColor=white"></a>
   <a href="mailto:thomas.sautier@samhan.fr"><img alt="Email" src="https://img.shields.io/badge/Contact-Email-0A66C2?logo=minutemailer&logoColor=white"></a>
   <a href="https://www.linkedin.com/in/thomassautier/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Thomas%20Sautier-0A66C2?logo=linkedin&logoColor=white"></a>
   <img alt="Profile views" src="https://komarev.com/ghpvc/?username=tsautier&label=views&color=0E8A16&style=flat"/>
@@ -144,7 +144,7 @@ I follow a responsible disclosure approach and will coordinate timelines with re
 ## 🤝 Let’s work together
 
 - 📩 **thomas.sautier@samhan.fr**  
-- 🌐 **https://www.samhan.fr**  
+- 🌐 **https://samhan.fr**  
 - 💼 **LinkedIn**: https://www.linkedin.com/in/thomassautier/
 
 <sub>© SamHan - Built with ❤️ and a lot of coffee.</sub>

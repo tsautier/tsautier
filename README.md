@@ -26,6 +26,9 @@ Contact: thomas.sautier@samhan.fr - https://www.samhan.fr
 
 <!-- CVE badges (static API for reliability) -->
 <p align="center">
+  <a href="https://www.cve.org/CVERecord?id=CVE-2026-84385">
+    <img alt="CVE-2026-84385" src="https://img.shields.io/static/v1?label=CVE-2026-843858&message=research&color=informational">
+  </a>
   <a href="https://www.cve.org/CVERecord?id=CVE-2024-45328">
     <img alt="CVE-2024-45328" src="https://img.shields.io/static/v1?label=CVE-2024-45328&message=research&color=informational">
   </a>
@@ -69,6 +72,7 @@ Cybersecurity engineer focused on **application security** and **critical infras
 ## 🔭 Threat Research & Monitoring
 
 I run continuous security watch (vulns, EoL/EoS, best practices) and contribute to **vulnerability research** including:
+- **CVE-2026-84385**
 - **CVE-2024-45328**
 - **CVE-2024-45326**
 
@@ -98,7 +102,8 @@ I run continuous security watch (vulns, EoL/EoS, best practices) and contribute 
 
 ## 🏅 Certifications (selection)
 
-- **F5 Certified Technology Specialist (CTS)** - *Application Security Manager (ASM)*  
+- **F5 Certified Technology Specialist (CTS)** - *Application Security Manager (ASM)*
+- **F5 Certified Technology Specialist (CTS)** - *Access Policy Manager (APM)*  
 - **Fortinet Certified Professional (FCP)** - *Network Security*  
 - **Fortinet Certified Solution Specialist (FCSS)** - *Network Security*  
 - **Fortinet Certified Solution Specialist (FCSS)** - *OT Security*  

@@ -1,11 +1,11 @@
 <p align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://www.samhan.fr/assets/samhan.png">
-    <img alt="SamHan Cybersecurity - Thomas Sautier" src="https://www.samhan.fr/assets/samhan.png" />
+    <source media="(prefers-color-scheme: dark)" srcset="https://www.samhan.fr/assets/brand/samhan-stacked-light.svg" width="250" height="250">
+    <img alt="SamHan Cybersecurity - Thomas Sautier" src="https://www.samhan.fr/assets/brand/samhan-stacked-light.svg" width="250" height="250"/>
   </picture>
 </p>
 
-<h1 align="center">Thomas Sautier - SamHan Cybersecurity</h1>
+<h1 align="center">Thomas Sautier - Samhan Cybersecurity</h1>
 
 <p align="center">
   <b>Cybersecurity Architecture • Audit • Migration • Build / Run</b><br/>
@@ -75,4 +75,4 @@ Publicly referenced CVEs:
 - Security contact: **security@samhan.fr**
 - LinkedIn: **https://www.linkedin.com/in/thomassautier/**
 
-For consulting, audit, migration or architecture work, contact me directly or use the SamHan website.
+For consulting, audit, migration or architecture work, contact me directly or use the Samhan website.

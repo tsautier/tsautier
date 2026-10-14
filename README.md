@@ -14,7 +14,7 @@
 </p>
 
 <p align="center">
-  <a href="https://samhan.fr"><img alt="Website" src="https://img.shields.io/badge/Website-SamHan.fr-111111?logo=firefox-browser&logoColor=white"></a>
+  <a href="https://samhan.fr"><img alt="Website" src="https://img.shields.io/badge/Website-Samhan.fr-111111?logo=firefox-browser&logoColor=white"></a>
   <a href="mailto:thomas.sautier@samhan.fr"><img alt="Email" src="https://img.shields.io/badge/Contact-Email-0A66C2?logo=minutemailer&logoColor=white"></a>
   <a href="https://www.linkedin.com/in/thomassautier/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Thomas%20Sautier-0A66C2?logo=linkedin&logoColor=white"></a>
 </p>
